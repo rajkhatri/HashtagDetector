@@ -22,7 +22,7 @@ Entering info:
 
 	Hello #world. How are you doing today? #awesomesauce #hashtags #hashtagdetector
 
-Will result in 4 hashtags. Each will have an independant tap area.
+Will result in 4 hashtags. Each will have an independent tap area.
 
 	Hello#World   #!@@   
 
